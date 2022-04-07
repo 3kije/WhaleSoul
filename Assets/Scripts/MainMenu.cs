@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Playables;
 
 public class MainMenu : MonoBehaviour
 {
@@ -9,12 +10,22 @@ public class MainMenu : MonoBehaviour
     ///public Animator transition;
 
 
-    public float transitionTime = 1f;
+    public float transitionTime = 10f;
+
+    public PlayableDirector director;
+
+
+   
+
+    public void StartTimeline()
+    {
+        director.Play();
+    }
 
 
     public void PlayGame()
     {
-
+        StartTimeline();
         LoadNextLevel();
 
 

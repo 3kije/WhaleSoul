@@ -53,9 +53,12 @@
     <UnityVersion>2020.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\MouseClickControll.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\MouseClickControll.cs" />
+    <Compile Include="Assets\Scripts\Ending.cs" />
+    <Compile Include="Assets\Scripts\TextFader.cs" />
+    <Compile Include="Assets\FadeInStart.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\TextMesh Pro\Shaders\TMPro.cginc" />
