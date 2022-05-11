@@ -12,7 +12,9 @@ public class Target : MonoBehaviour
     public float scaleRatio;
 
     private NavMeshAgent agent;
+    private Animator animator;
 
+    private Vector2 stuckDistanceCheck;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +23,7 @@ public class Target : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -33,7 +36,8 @@ public class Target : MonoBehaviour
         }
         agent.SetDestination(new Vector3(followSpot.x, followSpot.y, transform.position.z));
         //transform.position = Vector2.MoveTowards(transform.position, followSpot, Time.deltaTime * speed);
-       // AdjustPerspective();
+        // AdjustPerspective();
+        UpdateAnimation();
     }
     
 
@@ -45,4 +49,21 @@ public class Target : MonoBehaviour
         transform.localScale = scale;
        // Debug.Log(perspectiveScale / transform.position.y * scaleRatio);
     }
+
+    private void UpdateAnimation()
+    {
+        float distance = Vector2.Distance(transform.position, followSpot);
+        if(Vector2.Distance(stuckDistanceCheck, transform.position)==0) { animator.SetFloat("Distance", 0f); return; }
+
+        animator.SetFloat("Distance", distance);
+        if (distance > 0.01)
+        {
+            Vector3 direction = transform.position - new Vector3(followSpot.x, followSpot.y, transform.position.z);
+            float angle = Mathf.Atan2(direction.x, direction.y) * Mathf.Rad2Deg;
+            animator.SetFloat("angle", angle);
+            stuckDistanceCheck = transform.position;
+        }
+    }
+
+        
 }
