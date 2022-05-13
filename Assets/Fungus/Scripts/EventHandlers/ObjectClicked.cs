@@ -2,6 +2,7 @@
 // It is released for free under the MIT open source license (https://github.com/snozbot/fungus/blob/master/LICENSE)
 
 ﻿using UnityEngine;
+using UnityEngine.AI;
 using System.Collections;
 
 namespace Fungus 
@@ -32,6 +33,17 @@ namespace Fungus
 
         protected EventDispatcher eventDispatcher;
 
+        private Target target;
+
+        private NavMeshAgent agent;
+
+
+        private void Start()
+        {
+            target = FindObjectOfType<Target>();
+            agent = target.GetComponent<NavMeshAgent>();
+        }
+
         protected virtual void OnEnable()
         {
             eventDispatcher = FungusManager.Instance.EventDispatcher;
@@ -58,20 +70,35 @@ namespace Fungus
         /// </summary>
         protected virtual IEnumerator DoExecuteBlock(int numFrames)
         {
-            if (numFrames == 0)
+            while(Vector3.Distance(clickableObject.transform.position,target.transform.position)> clickableObject.activateDistance)
             {
+                yield return new WaitForSeconds(0.1f);
+            }
+
+            if(Vector3.Distance(clickableObject.transform.position, target.transform.position) <= clickableObject.activateDistance)
+            {
+                target.inDialog = true;
+                agent.SetDestination(target.transform.position);
+                target.followSpot = target.transform.position;
+
+                target.animator.SetFloat("Distance", 0f);
+
+                if (numFrames == 0)
+                {
+                    ExecuteBlock();
+                    yield break;
+                }
+
+                int count = Mathf.Max(waitFrames, 1);
+                while (count > 0)
+                {
+                    count--;
+                    yield return new WaitForEndOfFrame();
+                }
+
                 ExecuteBlock();
-                yield break;
             }
-
-            int count = Mathf.Max(waitFrames, 1);
-            while (count > 0)
-            {
-                count--;
-                yield return new WaitForEndOfFrame();
-            }
-
-            ExecuteBlock();
+           
         }
 
         #region Public members

@@ -60,10 +60,10 @@
     <Compile Include="Assets\Scripts\FadeInStart.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
-    <Compile Include="Assets\Target.cs" />
     <Compile Include="Assets\Lamp.cs" />
-    <Compile Include="Assets\LampEnd.cs" />
     <Compile Include="Assets\RandomIdle.cs" />
+    <Compile Include="Assets\LampEnd.cs" />
+    <Compile Include="Assets\RaycastCheck.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\TextMesh Pro\Shaders\TMPro.cginc" />
