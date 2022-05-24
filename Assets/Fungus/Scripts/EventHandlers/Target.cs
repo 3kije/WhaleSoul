@@ -16,6 +16,8 @@ public class Target : MonoBehaviour
 
     private Vector2 stuckDistanceCheck;
 
+    private SpriteRenderer spriteRenderer;
+
     public bool inDialog;
 
     // Start is called before the first frame update
@@ -26,6 +28,7 @@ public class Target : MonoBehaviour
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -41,8 +44,8 @@ public class Target : MonoBehaviour
             agent.SetDestination(new Vector3(followSpot.x, followSpot.y, transform.position.z));
             UpdateAnimation();
         }
-       
-       
+
+        AdjustSortingLayer();
         // AdjustPerspective();
     
     }
@@ -70,6 +73,11 @@ public class Target : MonoBehaviour
             animator.SetFloat("angle", angle);
             stuckDistanceCheck = transform.position;
         }
+    }
+
+    private void AdjustSortingLayer()
+    {
+        spriteRenderer.sortingOrder = (int)transform.position.y * -100;
     }
 
         public void ExitDialog()
