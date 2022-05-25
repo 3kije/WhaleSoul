@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 0d3cc563eea64844ea40605bb9aa209e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6299266395189564293
+    second: fly2L_0
+  - first:
+      213: 4148375264419523414
+    second: fly2L_1
+  - first:
+      213: -3699404854758672568
+    second: fly2L_2
+  - first:
+      213: -7883397391306198804
+    second: fly2L_3
+  - first:
+      213: 2378547729576004637
+    second: fly2L_4
+  - first:
+      213: 2443235366980815522
+    second: fly2L_5
+  - first:
+      213: -2483434991892310407
+    second: fly2L_6
+  - first:
+      213: 4901301968682426870
+    second: fly2L_7
+  - first:
+      213: 9113098252870827421
+    second: fly2L_8
+  - first:
+      213: -472807181477327417
+    second: fly2L_9
+  - first:
+      213: 2316236263801027504
+    second: fly2L_10
+  - first:
+      213: -2899073558747477733
+    second: fly2L_11
+  - first:
+      213: 7416267527163151323
+    second: fly2L_12
+  - first:
+      213: -2398103989956531968
+    second: fly2L_13
+  - first:
+      213: 7195094831988730398
+    second: fly2L_14
+  - first:
+      213: 1405382679302795162
+    second: fly2L_15
+  - first:
+      213: -921416102680671575
+    second: fly2L_16
+  - first:
+      213: -4101938185938744255
+    second: fly2L_17
+  - first:
+      213: 6933346042497540771
+    second: fly2L_18
+  - first:
+      213: -47056131915102388
+    second: fly2L_19
+  - first:
+      213: -3408794808971177825
+    second: fly2L_20
+  - first:
+      213: 3641754775293099069
+    second: fly2L_21
+  - first:
+      213: 805288740899438845
+    second: fly2L_22
+  - first:
+      213: -5100164525489929095
+    second: fly2L_23
+  - first:
+      213: -2022230140402568896
+    second: fly2L_24
+  - first:
+      213: -4322737982797386419
+    second: fly2L_25
+  - first:
+      213: -6384403169753374633
+    second: fly2L_26
+  - first:
+      213: -888346069487155550
+    second: fly2L_27
+  - first:
+      213: -8791132566310260539
+    second: fly2L_28
+  - first:
+      213: 8405429280865632452
+    second: fly2L_29
+  - first:
+      213: 7094181455586601945
+    second: fly2L_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fly2L_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58354d6596d7b6750800000000000000
+      internalID: 6299266395189564293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b2ebee25df19930800000000000000
+      internalID: 4148375264419523414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_2
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f0c782e219acc0800000000000000
+      internalID: -3699404854758672568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_3
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f3f337db889290800000000000000
+      internalID: -7883397391306198804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_4
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c80b6de8c420120800000000000000
+      internalID: 2378547729576004637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_5
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 6950
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa00971f9d18e120800000000000000
+      internalID: 2443235366980815522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976db7d5801198dd0800000000000000
+      internalID: -2483434991892310407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_7
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f12d3c1c2ce40440800000000000000
+      internalID: 4901301968682426870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_8
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3995e39a387e70800000000000000
+      internalID: 9113098252870827421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_9
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4acc9f504079f0800000000000000
+      internalID: -472807181477327417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_10
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbfcb72c9ce42020800000000000000
+      internalID: 2316236263801027504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_11
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 5560
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19012155fb64c7d0800000000000000
+      internalID: -2899073558747477733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd303dbd500ebe660800000000000000
+      internalID: 7416267527163151323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_13
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a138702938bed0800000000000000
+      internalID: -2398103989956531968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_14
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aefe1e0ac1ad360800000000000000
+      internalID: 7195094831988730398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_15
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f645dc91ce08310800000000000000
+      internalID: 1405382679302795162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_16
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac46dbfe87633f0800000000000000
+      internalID: -921416102680671575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_17
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 4170
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc280f3fcf217c0800000000000000
+      internalID: -4101938185938744255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22defbd71383060800000000000000
+      internalID: 6933346042497540771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4742b482b2d85ff0800000000000000
+      internalID: -47056131915102388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_20
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d31b8e2781b0d0800000000000000
+      internalID: -3408794808971177825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_21
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7d6c5cac1a8230800000000000000
+      internalID: 3641754775293099069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_22
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ceeed7d5fc2b00800000000000000
+      internalID: 805288740899438845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_23
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 2780
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974cf1ac2639839b0800000000000000
+      internalID: -5100164525489929095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041773bc6689fe3e0800000000000000
+      internalID: -2022230140402568896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_25
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de54e15bc8204c0800000000000000
+      internalID: -4322737982797386419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_26
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e8f3a42b0667a0800000000000000
+      internalID: -6384403169753374633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_27
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68a9ad4f5fba3f0800000000000000
+      internalID: -888346069487155550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_28
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c075b3228f9ff580800000000000000
+      internalID: -8791132566310260539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_29
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 1390
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c9a6a56516a470800000000000000
+      internalID: 8405429280865632452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2L_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 1390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db27608278937260800000000000000
+      internalID: 7094181455586601945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: b17f9007dcb5805499ddbcc05aa3b3ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6446897459517628336
+    second: FlyspriteL_0
+  - first:
+      213: -7103528705912501903
+    second: FlyspriteL_1
+  - first:
+      213: -1385502976639143823
+    second: FlyspriteL_2
+  - first:
+      213: -2063655609784730796
+    second: FlyspriteL_3
+  - first:
+      213: -807694241303616334
+    second: FlyspriteL_4
+  - first:
+      213: -7933165600233172948
+    second: FlyspriteL_5
+  - first:
+      213: 6593836152827321357
+    second: FlyspriteL_6
+  - first:
+      213: -5508347252741385603
+    second: FlyspriteL_7
+  - first:
+      213: 8209417321975685436
+    second: FlyspriteL_8
+  - first:
+      213: -6749675765288822999
+    second: FlyspriteL_9
+  - first:
+      213: -8546810953078369041
+    second: FlyspriteL_10
+  - first:
+      213: -8848083414390188519
+    second: FlyspriteL_11
+  - first:
+      213: 382250808021405534
+    second: FlyspriteL_12
+  - first:
+      213: -1950578581367891957
+    second: FlyspriteL_13
+  - first:
+      213: 1062315323501731084
+    second: FlyspriteL_14
+  - first:
+      213: 8109335548103218045
+    second: FlyspriteL_15
+  - first:
+      213: -1842118294528844683
+    second: FlyspriteL_16
+  - first:
+      213: 2841321583024835473
+    second: FlyspriteL_17
+  - first:
+      213: 7809853865014525988
+    second: FlyspriteL_18
+  - first:
+      213: -48145543307826602
+    second: FlyspriteL_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyspriteL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5576
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050651eeae40886a0800000000000000
+      internalID: -6446897459517628336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5576
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1798b4037423b6d90800000000000000
+      internalID: -7103528705912501903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_2
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 5576
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707d2a2264b5cce0800000000000000
+      internalID: -1385502976639143823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_3
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 5576
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf908182c6c53e0800000000000000
+      internalID: -2063655609784730796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4182
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b428fbed5e7ac4f0800000000000000
+      internalID: -807694241303616334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_5
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4182
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d0c51bebb7e190800000000000000
+      internalID: -7933165600233172948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_6
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 4182
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c966c9b03028b50800000000000000
+      internalID: 6593836152827321357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_7
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 4182
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72d9dcab5b6e83b0800000000000000
+      internalID: -5508347252741385603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2788
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ac491f85bde170800000000000000
+      internalID: 8209417321975685436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_9
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2788
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92795ec17a55452a0800000000000000
+      internalID: -6749675765288822999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_10
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 2788
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4985b98b0a36980800000000000000
+      internalID: -8546810953078369041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_11
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2788
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165f36830b453580800000000000000
+      internalID: -8848083414390188519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1394
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc83ba5170e4500800000000000000
+      internalID: 382250808021405534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_13
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1394
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d4176d172ee4e0800000000000000
+      internalID: -1950578581367891957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_14
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1394
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d56c8882a1ebe00800000000000000
+      internalID: 1062315323501731084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_15
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 1394
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d32547b52a8070800000000000000
+      internalID: 8109335548103218045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1c5ccb2b7f66e0800000000000000
+      internalID: -1842118294528844683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_17
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b88d00de66e6720800000000000000
+      internalID: 2841321583024835473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_18
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42007eb36bc226c60800000000000000
+      internalID: 7809853865014525988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyspriteL_19
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 0
+        width: 1061
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6e9922e3f45ff0800000000000000
+      internalID: -48145543307826602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
