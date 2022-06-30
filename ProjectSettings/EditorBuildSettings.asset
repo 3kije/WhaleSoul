@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/02_WhaleSoul.unity
     guid: dca32e8465b539942bf48c0970c8d2c0
   - enabled: 1
+    path: Assets/Scenes/02_LampNew.unity
+    guid: c09585894c9c93c40ae322cf55810e62
+  - enabled: 1
+    path: Assets/Scenes/02_Lamp.unity
+    guid: 040ede998dd570c429c900869939c038
+  - enabled: 1
     path: Assets/Scenes/03_TheEnd.unity
     guid: ba48675a76f68364886699204a005632
   - enabled: 1
