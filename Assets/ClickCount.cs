@@ -7,6 +7,7 @@ public class ClickCount : MonoBehaviour
     private int clicksCountdown;
     public GameObject LampCanvas;
     public GameObject Light;
+    public Animator anim;
 
 
     // Start is called before the first frame update
@@ -14,19 +15,22 @@ public class ClickCount : MonoBehaviour
     {
 
         clicksCountdown = 3;
-
+        anim = GetComponentInChildren<Animator>();
     }
 
 
     public void OnMouseDown()
     {
 
+        anim.SetTrigger("Flame_blow");
 
         clicksCountdown -= 1;
 
 
         if (clicksCountdown < 1)
         {
+            anim.SetBool("Flame_out", true);
+
             Ending();
         }
     }
@@ -35,7 +39,8 @@ public class ClickCount : MonoBehaviour
 
     private void Ending()
     {
-        LampCanvas.SetActive(false);
+        anim.Play("Lamp_no_flame", 1);
+        ///LampCanvas.SetActive(false);
         //Timeline start 
         //anim.animation.Play("open", 1);
        
