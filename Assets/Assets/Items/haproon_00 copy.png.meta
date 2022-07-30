@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: e51a983f60af2714cb65d7cec71f2328
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4449783365862087287
+    second: haproon_00 copy_0
+  - first:
+      213: -7739716454363698663
+    second: haproon_00 copy_1
+  - first:
+      213: -5514610393272622481
+    second: haproon_00 copy_2
+  - first:
+      213: -3814427786614481087
+    second: haproon_00 copy_3
+  - first:
+      213: 7893470315654599298
+    second: haproon_00 copy_4
+  - first:
+      213: -5961494458298793930
+    second: haproon_00 copy_5
+  - first:
+      213: 965109521666285868
+    second: haproon_00 copy_6
+  - first:
+      213: 2108202194004190524
+    second: haproon_00 copy_7
+  - first:
+      213: -9012163623816603603
+    second: haproon_00 copy_8
+  - first:
+      213: 524649274719663819
+    second: haproon_00 copy_9
+  - first:
+      213: -5781433394434381395
+    second: haproon_00 copy_10
+  - first:
+      213: 838667036064718066
+    second: haproon_00 copy_11
+  - first:
+      213: 6983097367881066488
+    second: haproon_00 copy_12
+  - first:
+      213: 5985641118333785730
+    second: haproon_00 copy_13
+  - first:
+      213: -7759287505869974231
+    second: haproon_00 copy_14
+  - first:
+      213: 6841841552166488282
+    second: haproon_00 copy_15
+  - first:
+      213: -2092108769064855647
+    second: haproon_00 copy_16
+  - first:
+      213: -8047350514488264057
+    second: haproon_00 copy_17
+  - first:
+      213: 5645383799720017756
+    second: haproon_00 copy_18
+  - first:
+      213: -3579863263312411970
+    second: haproon_00 copy_19
+  - first:
+      213: 5392478446513050656
+    second: haproon_00 copy_20
+  - first:
+      213: -7412778253109282859
+    second: haproon_00 copy_21
+  - first:
+      213: -5111651106071479748
+    second: haproon_00 copy_22
+  - first:
+      213: -2482598633961127745
+    second: haproon_00 copy_23
+  - first:
+      213: 3953089967604203252
+    second: haproon_00 copy_24
+  - first:
+      213: -7954340155255361380
+    second: haproon_00 copy_25
+  - first:
+      213: -9211786588360041648
+    second: haproon_00 copy_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haproon_00 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985295eca913f32c0800000000000000
+      internalID: -4449783365862087287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_1
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 370
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae76b34e0079490800000000000000
+      internalID: -7739716454363698663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_2
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 370
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ee42a01b2873b0800000000000000
+      internalID: -5514610393272622481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_3
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 370
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fd675432e601bc0800000000000000
+      internalID: -3814427786614481087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_4
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 370
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282dea14e6d3b8d60800000000000000
+      internalID: 7893470315654599298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63004a22064844da0800000000000000
+      internalID: -5961494458298793930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 296
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2124402ff1c46d00800000000000000
+      internalID: 965109521666285868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_7
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 296
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35a158c9b6d14d10800000000000000
+      internalID: 2108202194004190524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_8
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 296
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d6b0ceec5ee280800000000000000
+      internalID: -9012163623816603603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_9
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 296
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f4535cbde74700800000000000000
+      internalID: 524649274719663819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9682885f834cfa0800000000000000
+      internalID: -5781433394434381395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 222
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc9771d93b83ab00800000000000000
+      internalID: 838667036064718066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 222
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7248cde02f8e060800000000000000
+      internalID: 6983097367881066488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_13
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 222
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286d14342e4411350800000000000000
+      internalID: 5985641118333785730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_14
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 222
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255e76bf19715490800000000000000
+      internalID: -7759287505869974231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8046e54aa13fe50800000000000000
+      internalID: 6841841552166488282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_16
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 148
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d864b82657f2e0800000000000000
+      internalID: -2092108769064855647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_17
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 148
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78abed00851125090800000000000000
+      internalID: -8047350514488264057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_18
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 148
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7e03c7ae685e40800000000000000
+      internalID: 5645383799720017756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_19
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 148
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20bc53455c15ec0800000000000000
+      internalID: -3579863263312411970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245c57939ee5da40800000000000000
+      internalID: 5392478446513050656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_21
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 74
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73ea01475802990800000000000000
+      internalID: -7412778253109282859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 74
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a70e6d664cf09b0800000000000000
+      internalID: -5111651106071479748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_23
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 74
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb080ee12b90c8dd0800000000000000
+      internalID: -2482598633961127745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_24
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 74
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe753491623cd630800000000000000
+      internalID: 3953089967604203252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f06fc5c18c9190800000000000000
+      internalID: -7954340155255361380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haproon_00 copy_26
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 705
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b971e67e8292080800000000000000
+      internalID: -9211786588360041648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

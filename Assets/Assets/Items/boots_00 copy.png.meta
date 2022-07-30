@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: b2eaed95f29aeaa41ba2d675318b702b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4059363519233060587
+    second: boots_00 copy_0
+  - first:
+      213: -7399756582752268604
+    second: boots_00 copy_1
+  - first:
+      213: -6501692952937378087
+    second: boots_00 copy_2
+  - first:
+      213: 1851048500798884708
+    second: boots_00 copy_3
+  - first:
+      213: 2413560209127481774
+    second: boots_00 copy_4
+  - first:
+      213: 157541664104743402
+    second: boots_00 copy_5
+  - first:
+      213: -4151337669048865141
+    second: boots_00 copy_6
+  - first:
+      213: 9217616625872058966
+    second: boots_00 copy_7
+  - first:
+      213: 2917067394968880251
+    second: boots_00 copy_8
+  - first:
+      213: 2545530752498825226
+    second: boots_00 copy_9
+  - first:
+      213: 8541924626282685038
+    second: boots_00 copy_10
+  - first:
+      213: 5263378129509095171
+    second: boots_00 copy_11
+  - first:
+      213: -2140311665570377602
+    second: boots_00 copy_12
+  - first:
+      213: -2957848611307585790
+    second: boots_00 copy_13
+  - first:
+      213: -9086165815880281012
+    second: boots_00 copy_14
+  - first:
+      213: -7622373693181978200
+    second: boots_00 copy_15
+  - first:
+      213: 7409879909237394155
+    second: boots_00 copy_16
+  - first:
+      213: -2125941525222663617
+    second: boots_00 copy_17
+  - first:
+      213: 2493608196448014907
+    second: boots_00 copy_18
+  - first:
+      213: 4020653728371555024
+    second: boots_00 copy_19
+  - first:
+      213: -8668461404707024231
+    second: boots_00 copy_20
+  - first:
+      213: -6481145631780885732
+    second: boots_00 copy_21
+  - first:
+      213: 6534316533133639585
+    second: boots_00 copy_22
+  - first:
+      213: 5041187692269548582
+    second: boots_00 copy_23
+  - first:
+      213: 6467855261705501919
+    second: boots_00 copy_24
+  - first:
+      213: 439934586279084706
+    second: boots_00 copy_25
+  - first:
+      213: -5817493497222882041
+    second: boots_00 copy_26
+  - first:
+      213: 4951579525109290625
+    second: boots_00 copy_27
+  - first:
+      213: 3047468889567739621
+    second: boots_00 copy_28
+  - first:
+      213: -907797082991056907
+    second: boots_00 copy_29
+  - first:
+      213: -3477479773688131212
+    second: boots_00 copy_30
+  - first:
+      213: 2479396915843624368
+    second: boots_00 copy_31
+  - first:
+      213: -7713604135296899773
+    second: boots_00 copy_32
+  - first:
+      213: 2082019553892169697
+    second: boots_00 copy_33
+  - first:
+      213: -4918168785890649762
+    second: boots_00 copy_34
+  - first:
+      213: -2375086518138721709
+    second: boots_00 copy_35
+  - first:
+      213: 2843171579434617091
+    second: boots_00 copy_36
+  - first:
+      213: -7360250696112797754
+    second: boots_00 copy_37
+  - first:
+      213: 9100037828670874679
+    second: boots_00 copy_38
+  - first:
+      213: 7856597276725064550
+    second: boots_00 copy_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boots_00 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beee0120d91c55830800000000000000
+      internalID: 4059363519233060587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce41b4f798ce4990800000000000000
+      internalID: -7399756582752268604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec18de4b855c5a0800000000000000
+      internalID: -6501692952937378087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0320edce30b910800000000000000
+      internalID: 1851048500798884708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1af0df830be7120800000000000000
+      internalID: 2413560209127481774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1830
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1894e0f43bf2200800000000000000
+      internalID: 157541664104743402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee4ad726c7366c0800000000000000
+      internalID: -4151337669048865141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab6d4fb7d8bef70800000000000000
+      internalID: 9217616625872058966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748ef627518b7820800000000000000
+      internalID: 2917067394968880251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08768b8bba835320800000000000000
+      internalID: 2545530752498825226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62adb7c0330b8670800000000000000
+      internalID: 8541924626282685038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_11
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1525
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30713ffa5864b0940800000000000000
+      internalID: 5263378129509095171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709d0941e51c42e0800000000000000
+      internalID: -2140311665570377602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff0affb5c93f6d0800000000000000
+      internalID: -2957848611307585790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44982eb45477e180800000000000000
+      internalID: -9086165815880281012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91b98d283e73690800000000000000
+      internalID: -7622373693181978200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea066aa48e25d660800000000000000
+      internalID: 7409879909237394155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1220
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad9df42732f72e0800000000000000
+      internalID: -2125941525222663617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32594661731b9220800000000000000
+      internalID: 2493608196448014907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabf6c734b3cc730800000000000000
+      internalID: 4020653728371555024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921147a74073b780800000000000000
+      internalID: -8668461404707024231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b2020f2685e06a0800000000000000
+      internalID: -6481145631780885732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af746f344e8eaa50800000000000000
+      internalID: 6534316533133639585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 915
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243ccb2f75e5f540800000000000000
+      internalID: 5041187692269548582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf894a71072c950800000000000000
+      internalID: 6467855261705501919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c293ec26fa1600800000000000000
+      internalID: 439934586279084706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d92e69c7c144fa0800000000000000
+      internalID: -5817493497222882041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1869c3fe75b87b440800000000000000
+      internalID: 4951579525109290625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3db21fc8ca4a20800000000000000
+      internalID: 3047468889567739621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 610
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ae2cdc5bd663f0800000000000000
+      internalID: -907797082991056907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47196bff1928dbfc0800000000000000
+      internalID: -3477479773688131212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdee0acb56986220800000000000000
+      internalID: 2479396915843624368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_32
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e4a948e5c3f490800000000000000
+      internalID: -7713604135296899773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_33
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7f825d0c1d4ec10800000000000000
+      internalID: 2082019553892169697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_34
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d29bfb872fbbb0800000000000000
+      internalID: -4918168785890649762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_35
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 305
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa58f356ff90fd0800000000000000
+      internalID: -2375086518138721709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cfabdc79f47720800000000000000
+      internalID: 2843171579434617091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70068fcf22bd990800000000000000
+      internalID: -7360250696112797754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346b8ce034d94e70800000000000000
+      internalID: 9100037828670874679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boots_00 copy_39
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 283
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663bf7ed89d380d60800000000000000
+      internalID: 7856597276725064550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

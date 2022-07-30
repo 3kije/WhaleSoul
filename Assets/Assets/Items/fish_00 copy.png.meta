@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: ff6e4ff72d3205d44bd4bd6be4ac0372
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7989568253126772512
+    second: fish_00 copy_0
+  - first:
+      213: -2450466797242819479
+    second: fish_00 copy_1
+  - first:
+      213: -1736525253956678521
+    second: fish_00 copy_2
+  - first:
+      213: -3863799732036879644
+    second: fish_00 copy_3
+  - first:
+      213: 1228605283998675881
+    second: fish_00 copy_4
+  - first:
+      213: -7852995029159046959
+    second: fish_00 copy_5
+  - first:
+      213: 2191228026482499468
+    second: fish_00 copy_6
+  - first:
+      213: 7341125994603161159
+    second: fish_00 copy_7
+  - first:
+      213: -1671375042149999284
+    second: fish_00 copy_8
+  - first:
+      213: 79185909409418927
+    second: fish_00 copy_9
+  - first:
+      213: 7018624397021340144
+    second: fish_00 copy_10
+  - first:
+      213: 4661693290735583233
+    second: fish_00 copy_11
+  - first:
+      213: -6057043807469518141
+    second: fish_00 copy_12
+  - first:
+      213: -4402173541098530992
+    second: fish_00 copy_13
+  - first:
+      213: -6346750562343804008
+    second: fish_00 copy_14
+  - first:
+      213: -2519473948675473101
+    second: fish_00 copy_15
+  - first:
+      213: 7644233889690310852
+    second: fish_00 copy_16
+  - first:
+      213: 5024461114770384516
+    second: fish_00 copy_17
+  - first:
+      213: 6697446323350945030
+    second: fish_00 copy_18
+  - first:
+      213: -716566358838984517
+    second: fish_00 copy_19
+  - first:
+      213: 2774809671402057530
+    second: fish_00 copy_20
+  - first:
+      213: 2155646285540227191
+    second: fish_00 copy_21
+  - first:
+      213: -9101356946408273351
+    second: fish_00 copy_22
+  - first:
+      213: -325378536499376427
+    second: fish_00 copy_23
+  - first:
+      213: 3488117247503514516
+    second: fish_00 copy_24
+  - first:
+      213: 8537116685421049309
+    second: fish_00 copy_25
+  - first:
+      213: -974555904811231657
+    second: fish_00 copy_26
+  - first:
+      213: 599923653057244130
+    second: fish_00 copy_27
+  - first:
+      213: -6175038404688994534
+    second: fish_00 copy_28
+  - first:
+      213: 6982428653585643123
+    second: fish_00 copy_29
+  - first:
+      213: 9005371312245298711
+    second: fish_00 copy_30
+  - first:
+      213: -1477700540560193317
+    second: fish_00 copy_31
+  - first:
+      213: 3780634800815235694
+    second: fish_00 copy_32
+  - first:
+      213: 5189743350985617412
+    second: fish_00 copy_33
+  - first:
+      213: 371858253324641303
+    second: fish_00 copy_34
+  - first:
+      213: 4674024206353494103
+    second: fish_00 copy_35
+  - first:
+      213: 3758212000425792391
+    second: fish_00 copy_36
+  - first:
+      213: -7076073182005480602
+    second: fish_00 copy_37
+  - first:
+      213: -6380158334677016731
+    second: fish_00 copy_38
+  - first:
+      213: 3156744141833176197
+    second: fish_00 copy_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish_00 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f3ab110a5f1190800000000000000
+      internalID: -7989568253126772512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd3785e613efdd0800000000000000
+      internalID: -2450466797242819479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cca666b7f96e7e0800000000000000
+      internalID: -1736525253956678521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea31b07d96016ac0800000000000000
+      internalID: -3863799732036879644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3b8e11ff1ec0110800000000000000
+      internalID: 1228605283998675881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_5
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2058
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d01110c0ae840390800000000000000
+      internalID: -7852995029159046959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9e5cc74ec86e10800000000000000
+      internalID: 2191228026482499468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74625b7723be0e560800000000000000
+      internalID: 7341125994603161159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d123621451ec8e0800000000000000
+      internalID: -1671375042149999284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae80914a23591100800000000000000
+      internalID: 79185909409418927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e85ce3b9276160800000000000000
+      internalID: 7018624397021340144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_11
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1715
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100cd166959a1b040800000000000000
+      internalID: 4661693290735583233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2cccaafbe01fba0800000000000000
+      internalID: -6057043807469518141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d233fc7658e2c0800000000000000
+      internalID: -4402173541098530992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ac757dffcbe7a0800000000000000
+      internalID: -6346750562343804008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331095cdac7090dd0800000000000000
+      internalID: -2519473948675473101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_16
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c85ef6c836c51a60800000000000000
+      internalID: 7644233889690310852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_17
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1372
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e6ad53c87ab540800000000000000
+      internalID: 5024461114770384516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d349d42fb12fc50800000000000000
+      internalID: 6697446323350945030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0486371be3e06f0800000000000000
+      internalID: -716566358838984517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fec3fc1ba128620800000000000000
+      internalID: 2774809671402057530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_21
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f30720e46aed10800000000000000
+      internalID: 2155646285540227191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_22
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a0d4b041c71b180800000000000000
+      internalID: -9101356946408273351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_23
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1029
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0b6ae1f50c7bf0800000000000000
+      internalID: -325378536499376427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b3c50e728486030800000000000000
+      internalID: 3488117247503514516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f490d46ee97670800000000000000
+      internalID: 8537116685421049309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75697f7619ea972f0800000000000000
+      internalID: -974555904811231657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_27
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebe4d8426b535800800000000000000
+      internalID: 599923653057244130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_28
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f1e16a94bdd4aa0800000000000000
+      internalID: -6175038404688994534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_29
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 686
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3763b7eadd196e060800000000000000
+      internalID: 6982428653585643123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716dfd8fe7189fc70800000000000000
+      internalID: 9005371312245298711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8c18300372e7be0800000000000000
+      internalID: -1477700540560193317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6262181253877430800000000000000
+      internalID: 3780634800815235694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_33
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40071fec41ca50840800000000000000
+      internalID: 5189743350985617412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_34
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71466387c1b192500800000000000000
+      internalID: 371858253324641303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_35
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 343
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f64b60487dd040800000000000000
+      internalID: 4674024206353494103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7835dfb07e9d72430800000000000000
+      internalID: 3758212000425792391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66335ed7eecbccd90800000000000000
+      internalID: -7076073182005480602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f14d25ccf1577a0800000000000000
+      internalID: -6380158334677016731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_00 copy_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 0
+        width: 327
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58403c462120fcb20800000000000000
+      internalID: 3156744141833176197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

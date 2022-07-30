@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 9453ad383bae9db4da07f70cbbcd7991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6545152896122424976
+    second: knife_00 copy_0
+  - first:
+      213: -5357110797300875485
+    second: knife_00 copy_1
+  - first:
+      213: -6612677797873852325
+    second: knife_00 copy_2
+  - first:
+      213: -2507559033375319341
+    second: knife_00 copy_3
+  - first:
+      213: -7437807619914813807
+    second: knife_00 copy_4
+  - first:
+      213: 6842084047449964507
+    second: knife_00 copy_5
+  - first:
+      213: 6537245796752419816
+    second: knife_00 copy_6
+  - first:
+      213: -4919021398678956943
+    second: knife_00 copy_7
+  - first:
+      213: -7779122964060941108
+    second: knife_00 copy_8
+  - first:
+      213: 4297969345113182166
+    second: knife_00 copy_9
+  - first:
+      213: -1055329858548561828
+    second: knife_00 copy_10
+  - first:
+      213: 6399498121424181981
+    second: knife_00 copy_11
+  - first:
+      213: -1511041348672441665
+    second: knife_00 copy_12
+  - first:
+      213: 7048865783031208425
+    second: knife_00 copy_13
+  - first:
+      213: -4059222963002695653
+    second: knife_00 copy_14
+  - first:
+      213: 5596473303058145641
+    second: knife_00 copy_15
+  - first:
+      213: 6323449114150205119
+    second: knife_00 copy_16
+  - first:
+      213: -5963537395821456566
+    second: knife_00 copy_17
+  - first:
+      213: -2414252675353682866
+    second: knife_00 copy_18
+  - first:
+      213: 7238887649649322801
+    second: knife_00 copy_19
+  - first:
+      213: -1805457846732289797
+    second: knife_00 copy_20
+  - first:
+      213: -3860485608889112915
+    second: knife_00 copy_21
+  - first:
+      213: 4486143472422641485
+    second: knife_00 copy_22
+  - first:
+      213: -5515070252454751953
+    second: knife_00 copy_23
+  - first:
+      213: -4660055142642075497
+    second: knife_00 copy_24
+  - first:
+      213: -2220270551654279731
+    second: knife_00 copy_25
+  - first:
+      213: -1753592118888658685
+    second: knife_00 copy_26
+  - first:
+      213: 2068639408870033528
+    second: knife_00 copy_27
+  - first:
+      213: 7034860788063972927
+    second: knife_00 copy_28
+  - first:
+      213: 4050334181608271065
+    second: knife_00 copy_29
+  - first:
+      213: 2264663865232215612
+    second: knife_00 copy_30
+  - first:
+      213: 3225425461310899577
+    second: knife_00 copy_31
+  - first:
+      213: -9134079691235630873
+    second: knife_00 copy_32
+  - first:
+      213: 6929342961139791444
+    second: knife_00 copy_33
+  - first:
+      213: 6441788506567558689
+    second: knife_00 copy_34
+  - first:
+      213: 1872402273448403770
+    second: knife_00 copy_35
+  - first:
+      213: 2763057613124171161
+    second: knife_00 copy_36
+  - first:
+      213: 8280259010779473853
+    second: knife_00 copy_37
+  - first:
+      213: 5608635099335163716
+    second: knife_00 copy_38
+  - first:
+      213: -1549483452967877829
+    second: knife_00 copy_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knife_00 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0ffd91ed05da50800000000000000
+      internalID: 6545152896122424976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb870fc18b7a5b0800000000000000
+      internalID: -5357110797300875485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ed9b049c0b34a0800000000000000
+      internalID: -6612677797873852325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9752485c533dd0800000000000000
+      internalID: -2507559033375319341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea84b706997c890800000000000000
+      internalID: -7437807619914813807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 960
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3f93b037f3fe50800000000000000
+      internalID: 6842084047449964507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe7d49a66f8ba50800000000000000
+      internalID: 6537245796752419816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174123999102cbbb0800000000000000
+      internalID: -4919021398678956943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4501731e00b0490800000000000000
+      internalID: -7779122964060941108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4df6095475ab30800000000000000
+      internalID: 4297969345113182166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c588954c517ba51f0800000000000000
+      internalID: -1055329858548561828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_11
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 800
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda944ca2a59fc850800000000000000
+      internalID: 6399498121424181981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2b37336e3b70be0800000000000000
+      internalID: -1511041348672441665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91bfa451a92d160800000000000000
+      internalID: 7048865783031208425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ad1ac83ebaa7c0800000000000000
+      internalID: -4059222963002695653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961ecb751daaaad40800000000000000
+      internalID: 5596473303058145641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67e2c577761c750800000000000000
+      internalID: 6323449114150205119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_17
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 640
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43dd4da5524d3da0800000000000000
+      internalID: -5963537395821456566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd187abf9de7ed0800000000000000
+      internalID: -2414252675353682866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b6f4ec6f1b57460800000000000000
+      internalID: 7238887649649322801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8849477a9b1f6e0800000000000000
+      internalID: -1805457846732289797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_21
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da628addacccc6ac0800000000000000
+      internalID: -3860485608889112915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f503538bbf14e30800000000000000
+      internalID: 4486143472422641485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_23
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 480
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215c1353d88673b0800000000000000
+      internalID: -5515070252454751953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798361da988245fb0800000000000000
+      internalID: -4660055142642075497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d26f52b30031e0800000000000000
+      internalID: -2220270551654279731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30987b0424df9a7e0800000000000000
+      internalID: -1753592118888658685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_27
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878821e059845bc10800000000000000
+      internalID: 2068639408870033528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ea0ec4d98d0a160800000000000000
+      internalID: 7034860788063972927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 320
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc22648a7da53830800000000000000
+      internalID: 4050334181608271065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e44d669c3bd6f10800000000000000
+      internalID: 2264663865232215612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975cfe63e5303cc20800000000000000
+      internalID: 3225425461310899577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e06acd4aea3d3180800000000000000
+      internalID: -9134079691235630873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_33
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456379db5b8f92060800000000000000
+      internalID: 6929342961139791444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_34
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12647244484d56950800000000000000
+      internalID: 6441788506567558689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_35
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 160
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a68182fb1cf910800000000000000
+      internalID: 1872402273448403770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9957434824a585620800000000000000
+      internalID: 2763057613124171161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ecb913b369e270800000000000000
+      internalID: 8280259010779473853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff8a238efd5dd40800000000000000
+      internalID: 5608635099335163716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knife_00 copy_39
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 206
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33018052012f7ae0800000000000000
+      internalID: -1549483452967877829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
