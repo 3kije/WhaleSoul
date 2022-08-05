@@ -1,6 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Fungus;
+using UnityEngine.Playables;
+ 
 
 public class ClickCount : MonoBehaviour
 {
@@ -8,7 +11,11 @@ public class ClickCount : MonoBehaviour
     public GameObject LampCanvas;
     public GameObject Light;
     public Animator anim;
+    public Fungus.Flowchart myFlowchart;
+    public PlayableDirector director;
+    
 
+    
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +23,7 @@ public class ClickCount : MonoBehaviour
 
         clicksCountdown = 3;
         anim = GetComponentInChildren<Animator>();
+      
     }
 
 
@@ -40,11 +48,11 @@ public class ClickCount : MonoBehaviour
     private void Ending()
     {
         anim.Play("Lamp_no_flame", 1);
-        ///LampCanvas.SetActive(false);
-        //Timeline start 
-        //anim.animation.Play("open", 1);
+
+        director.Play();
+        Light.SetActive(false);
        
-       
+        myFlowchart.ExecuteBlock("Clickable/Lamp (Copy)");
 
 
     }
