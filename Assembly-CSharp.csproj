@@ -55,24 +55,24 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MouseClickControll.cs" />
     <Compile Include="Assets\Scripts\TextFader.cs" />
-    <Compile Include="Assets\CrowFlyController.cs" />
+    <Compile Include="Assets\Scripts\CrowFlyController.cs" />
     <Compile Include="Assets\Scripts\Ending.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
-    <Compile Include="Assets\RandomFly.cs" />
-    <Compile Include="Assets\RaycastCheck.cs" />
-    <Compile Include="Assets\CrowFall.cs" />
+    <Compile Include="Assets\Scripts\RandomFly.cs" />
+    <Compile Include="Assets\Scripts\RaycastCheck.cs" />
+    <Compile Include="Assets\Scripts\CrowFall.cs" />
     <Compile Include="Assets\Scripts\FadeInStart.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\FlickeringLight.cs" />
-    <Compile Include="Assets\AdjustSortingLayer.cs" />
+    <Compile Include="Assets\Scripts\FlickeringLight.cs" />
+    <Compile Include="Assets\Scripts\AdjustSortingLayer.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
-    <Compile Include="Assets\ClickCount.cs" />
-    <Compile Include="Assets\Lamp.cs" />
-    <Compile Include="Assets\DoorClick.cs" />
-    <Compile Include="Assets\RandomLadyIdle.cs" />
-    <Compile Include="Assets\RandomIdle.cs" />
-    <Compile Include="Assets\LampEnd.cs" />
-    <Compile Include="Assets\MouseHover.cs" />
+    <Compile Include="Assets\Scripts\ClickCount.cs" />
+    <Compile Include="Assets\Scripts\Lamp.cs" />
+    <Compile Include="Assets\Scripts\DoorClick.cs" />
+    <Compile Include="Assets\Scripts\RandomLadyIdle.cs" />
+    <Compile Include="Assets\Scripts\RandomIdle.cs" />
+    <Compile Include="Assets\Scripts\LampEnd.cs" />
+    <Compile Include="Assets\Scripts\MouseHover.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\TextMesh Pro\Shaders\TMPro.cginc" />
