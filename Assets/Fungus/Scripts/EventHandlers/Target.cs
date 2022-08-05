@@ -45,7 +45,7 @@ public class Target : MonoBehaviour
             UpdateAnimation();
         }
 
-        AdjustSortingLayer();
+       // AdjustSortingLayer();
         // AdjustPerspective();
     
     }
@@ -75,14 +75,14 @@ public class Target : MonoBehaviour
         }
     }
 
-    private void AdjustSortingLayer()
-    {
-        spriteRenderer.sortingOrder = (int)transform.position.y * -100;
-    }
+   // private void AdjustSortingLayer()
+   // {
+    //    spriteRenderer.sortingOrder = (int)transform.position.y * -100;
+   // }
 
-        public void ExitDialog()
-    {
-        inDialog = false;
+       public void ExitDialog()
+  {
+      inDialog = false;
 
     }
 }
