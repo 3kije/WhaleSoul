@@ -73,6 +73,7 @@
     <Compile Include="Assets\Scripts\RandomIdle.cs" />
     <Compile Include="Assets\Scripts\LampEnd.cs" />
     <Compile Include="Assets\Scripts\MouseHover.cs" />
+    <Compile Include="Assets\doorTimeline.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\TextMesh Pro\Shaders\TMPro.cginc" />

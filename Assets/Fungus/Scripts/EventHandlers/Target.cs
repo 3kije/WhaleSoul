@@ -34,7 +34,7 @@ public class Target : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!inDialog)
+        if (inDialog != true)
         {
             var mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             if (Input.GetMouseButtonDown(0))

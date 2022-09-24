@@ -9,6 +9,7 @@ public class ClickCount : MonoBehaviour
 {
     private int clicksCountdown;
     public GameObject LampCanvas;
+    public GameObject Clickable;
     public GameObject Light;
     public Animator anim;
     public Fungus.Flowchart myFlowchart;
@@ -59,8 +60,10 @@ public class ClickCount : MonoBehaviour
 
     public void Close()
     {
+        Clickable.SetActive(true);
         LampCanvas.SetActive(false);
-        Light.SetActive(false);
+      
+        Light.SetActive(true);
         //Timeline start 
         //anim.animation.Play("open", 1);
 
